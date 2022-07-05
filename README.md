@@ -1,1 +1,1 @@
-# algoexpert-challenges
+# Algoexpert Coding Challenges and Solutions
